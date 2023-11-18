@@ -31,7 +31,25 @@ git commit -m 'some message'
 
 git add .
 
+git push origin main/master
+
+to create new git repo:
+
+git init
+
+git remote add origin <link>
+
+git remote -v
+
+git branch
+
+git branch -M main
+
 git push origin main
+
+...
+
+
 
 
 

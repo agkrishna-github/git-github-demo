@@ -1,0 +1,38 @@
+git --version
+
+https://git-scm.com/downloads
+
+in git bash..
+
+ls
+
+clear
+
+pwd
+
+git config --global user.name "my name"
+git config --global user.email "my@gmail.com"
+git config --list
+
+git clone <repository link>
+
+ls -a
+
+git status
+
+untracked
+modified
+staged
+unmodified
+
+git add <file name>
+
+git commit -m 'some message'
+
+git add .
+
+git push origin main
+
+
+
+

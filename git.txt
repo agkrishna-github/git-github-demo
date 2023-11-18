@@ -33,6 +33,18 @@ git add .
 
 git push origin main/master
 
+...
+
+error: 403
+
+solution:
+
+go to control panel -> user accounts -> credential manager ->
+
+
+
+....
+
 to create new git repo:
 
 git init
